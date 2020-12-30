@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple react app that contains a textarea for Markdown input and a preview tab where the converted text appears.
+See website version here: https://determined-ramanujan-ae551b.netlify.app/
 
 ## Available Scripts
 
