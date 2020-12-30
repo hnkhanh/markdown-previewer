@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple react app that contains a textarea for Markdown input and a preview tab where the converted text appears.
 
-See website version here: https://determined-ramanujan-ae551b.netlify.app/
+See website version here: https://markdown-previewer-live.netlify.app/
 
 ## Available Scripts
 
