@@ -3,8 +3,6 @@ import marked from 'marked';
 import "./index.css";
 
 const initState = `
-Type in the left box and see Markdown results in the right!
-
 ## H2
 
 [I'm an inline-style link](https://www.google.com)
