@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple react app that contains a textarea for Markdown input and a preview tab where the converted text appears.
+
+See website version here: https://markdown-previewer-live.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
