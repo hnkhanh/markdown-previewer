@@ -12,6 +12,16 @@ h1, h3 {
   text-align: center;
   color: #333333;
 }
+.author {
+  text-align:center;
+  color: black;
+  text-decoration: none;
+  font-size: 0.83em;
+}
+
+a:visited {
+  color: black;
+} 
 #editor {
   background-color: #1d1f20;
   border-radius: 4px;
